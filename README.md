@@ -74,3 +74,10 @@ The model correctly classifies the large majority of students, with very few fal
    `students_data_simulated.csv`.
 
 ## Project Structure
+
+## Conclusion
+
+This mini-project shows that a small neural network can learn a reliable blocking decision from
+simple student indicators, reaching 96.3% accuracy. Future work could replace the simulated data
+with real school records and compare the neural network against simpler models such as Logistic
+Regression or Random Forest.
