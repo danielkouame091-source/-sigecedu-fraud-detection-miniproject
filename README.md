@@ -65,7 +65,7 @@ unpaid tuition, and the combination of low grades with many absences.
 | Blocked | 1,443 | 48.1% |
 | **Total** | **3,000** | **100%** |
 
-![Data exploration](images/data_exploration.png)
+
 
 ### Dataset Splitting
 
@@ -110,7 +110,6 @@ A fully-connected (dense) neural network was built with Keras.
 
 The model was trained for 30 epochs, monitoring training/validation accuracy and loss.
 
-![Training curves](images/training_curves.png)
 
 ### Final Recorded Training Results (Epoch 30)
 
@@ -149,7 +148,6 @@ The model was evaluated on the held-out test set of 600 students.
 | Allowed | 305 | 7 |
 | Blocked | 15 | 273 |
 
-![Confusion matrix](images/confusion_matrix.png)
 
 ### Performance Discussion
 
